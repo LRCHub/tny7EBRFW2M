@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "クランクアップ",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-03-30T08:33:04.323014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クランクアップ",
+      "artist": "Ikusaburo Yamazaki",
+      "has_synced": true,
+      "path": "select/01_クランクアップ_Ikusaburo_Yamazaki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クランクアップ",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_クランクアップ_SKRYU.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "クランクアップ",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/localdb_01_クランクアップ_SKRYU.txt",
+      "repo_name": "4lblpTlA6cw"
+    }
+  ]
+}
